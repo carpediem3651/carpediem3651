@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/thymeleaf-6DB33F?style=for-the-badge&logo=thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
+
 ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=carpediem3651&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carpediem3651&layout=compact&theme=tokyonight)
 
@@ -24,3 +25,6 @@
 <p align="center">
   <a href="mailto:carpediem7490@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+![GitHub last commit](https://img.shields.io/github/last-commit/carpediem3651/carpediem3651)
+![pv](https://pageview.vercel.app/?github_user=carpediem3651)
