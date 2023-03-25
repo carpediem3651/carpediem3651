@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/thymeleaf-6DB33F?style=for-the-badge&logo=thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carpediem3651&show_icons=true&theme=radical)
+![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=carpediem3651&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carpediem3651&layout=compact&theme=tokyonight)
 
 <h2  align="center">📫 Reach me on</h2>
