@@ -23,7 +23,8 @@
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
-  <a href="mailto:carpediem7490@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:carpediem7490@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://gaksitalcoder.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFCA28?style=for-the-badge&logo=Tistory&logoColor=000000"/></a>
 </p>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/carpediem3651/carpediem3651)
