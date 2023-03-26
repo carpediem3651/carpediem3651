@@ -1,6 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm KiHyeok Nam, BackEnd developer from <img src=https://user-images.githubusercontent.com/75459974/227701787-bc508a43-7d2b-43c8-8888-b9b673ebaadd.png width="13"/> <b>Incheon, Republic of Korea</b></p>
+<img align="center" alt="GIF" src="https://github.com/carpediem3651/carpediem3651/blob/main/code.gif?raw=true" width="500" height="320" />
+
 <h3>Things I code with</h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
